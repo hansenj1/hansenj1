@@ -9,7 +9,7 @@ About Me 📝
 
 I'm a student passionate about software engineering and economics. I am interested in projects that combine software engineering with analytical insights. My academic focus and hands-on experience have honed my problem-solving skills and helped me build a strong foundation in programming and analysis.
 
-📊 Currently working on projects regarding Data Structures
+📊 Currently working on projects involving Data Structures
 
 🌐 Working on expanding my knowledge in software development
 
