@@ -14,6 +14,9 @@ Data Analysis: NumPy, Excel, matplotlib 📊
 
 Version Control: Git & GitHub 
 
+
 Let's Connect 🤝
+
 Email: jhansen1@iwu.edu
+
 LinkedIn: www.linkedin.com/in/jack-hansen-4b4741336
