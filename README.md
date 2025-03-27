@@ -1,9 +1,7 @@
 # About me
 Sophomore Student-Athlete at Illinois Wesleyan University Studying Computer Science & Economics. I'm passionate about software engineering and economics, and intrigued more by the areas where they intersect. I am interested in projects that combine software engineering with analytical insights. My academic focus and hands-on experience have honed my problem-solving skills and helped me build a strong foundation in programming and analysis.
 
-### Passionate about: Software Development | Data Analysis
-
-### Currently taking Software Development and Econometrics
+### Passionate about: Software Development | Data Analysis | Economics
 
 ### Eager to apply my skills in real-world projects
 
