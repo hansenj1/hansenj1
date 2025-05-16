@@ -14,7 +14,7 @@ Sophomore Student-Athlete at Illinois Wesleyan University Studying Computer Scie
 - Version Control: Git & GitHub 
 
 
-## Let's Connect 🤝
+## Let's Connect 
 
 - Email: jhansen1@iwu.edu
 
