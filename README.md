@@ -6,8 +6,6 @@ Sophomore Student-Athlete at Illinois Wesleyan University Studying Computer Scie
 ##### - Data Analysis 
 ##### - Economics
 
-### Eager to apply my skills in real-world projects
-
 ### Tools, Technologies, and languages: 
 
 ##### - Programming Languages: Java, Python, C++, R, Scheme, JavaScript
